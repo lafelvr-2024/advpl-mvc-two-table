@@ -6,30 +6,7 @@
 	"permissions": {
 		"authorizationtoken": ""
 	},
-	"connectedServer": {
-		"id": "a0ads5vq82hmdiuwkib6cl7nf0skz4",
-		"type": "totvs_server_protheus",
-		"name": "Localhost - Compilador",
-		"port": 7010,
-		"address": "127.0.0.1",
-		"buildVersion": "7.00.240223P",
-		"secure": false,
-		"includes": [
-			"D:\\TOTVS\\P12012410\\protheus\\include"
-		],
-		"environments": [
-			"P12012410"
-		],
-		"username": "admin",
-		"environment": "P12012410",
-		"token": "djM6YTBhZHM1dnE4MmhtZGl1d2tpYjZjbDduZjBza3o0OjE6MTI3LjAuMC4xOjcwMTA6MDo3LjAwLjI0MDIyM1A6Mw==:djE6UDEyMDEyNDEwOmFkbWluOnJ5WC82ODlFLzZtTWhxaXFBaEpOdmpXZDcxUC9IODJEZGNRcTZ0MGtqRHc9|djI6MTc1MzQ1MDEwNTowOjE6MQ==.tHZHNQx7+fBGigeKP4svOIaNiAdiaituOKQoMQcRw0ttukrcQPhSunAyOVuF4i5BC3cZWpqbpToLrJzC+4fZlpn5I4F2zD40A5x11dORmp+xGq+8MYZs23fqvHfmAB1Tr2MsKOiKFxk2Fy188KfQW6D2fY4ORa86R4WQP9uW8wNckeFK1gdePnvaEWawIavC4uTU6ScZxvUoU8uFDt+zPsWdocFnv0Cf9+DxyRhBSonr/WfO0T3+33rhpFd9OFaU75IIplJbnqVxOyJQwldes9GqTUEVroJFxV8HVkWincfj0x1QIa8wjcw8ebs3alu9sgxwrK8p8djz6cd7bolcnQ==",
-		"informations": {
-			"permissions": [],
-			"errorMessage": "",
-			"environmentDetectedType": "totvs_server_protheus",
-			"serverDetectedType": "totvs_server_protheus"
-		}
-	},
+	"connectedServer": {},
 	"configurations": [
 		{
 			"id": "a0ads5vq82hmdiuwkib6cl7nf0skz4",
