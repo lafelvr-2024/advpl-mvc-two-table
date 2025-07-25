@@ -1,0 +1,113 @@
+MANIFESTO DE ATUALIZAÇÃO
+
+Data : 25/07/2025
+Hora : 16:51:47
+Arquivo de atualização diferencial baseado em projeto gerado pelo Configurador
+Projeto : 000007
+Descrição : GITHUB - MVC                                      
+Versão : 0001
+Release de referência : 12.1.2410 
+Responsável pelo Projeto: 000000 - Administrador
+Geração do Pacote: 000000 - Administrador
+-----------------------------
+Componentes do arquivo de atualização :
+
+------------
+SIX
+
+Operação:Inclusão ou Alteração
+Tabela : Z01
+Ordem : 1
+
+Operação:Inclusão ou Alteração
+Tabela : Z01
+Ordem : 2
+
+Operação:Inclusão ou Alteração
+Tabela : Z01
+Ordem : 3
+
+Operação:Inclusão ou Alteração
+Tabela : Z02
+Ordem : 1
+
+Operação:Inclusão ou Alteração
+Tabela : Z02
+Ordem : 2
+
+Operação:Inclusão ou Alteração
+Tabela : Z02
+Ordem : 3
+
+
+------------
+SX3
+
+Operação:Inclusão ou Alteração
+Campo : Z01_FILIAL
+
+Operação:Inclusão ou Alteração
+Campo : Z01_COD   
+
+Operação:Inclusão ou Alteração
+Campo : Z01_DESC  
+
+Operação:Inclusão ou Alteração
+Campo : Z01_TIPO  
+
+Operação:Inclusão ou Alteração
+Campo : Z02_FILIAL
+
+Operação:Inclusão ou Alteração
+Campo : Z02_COD   
+
+Operação:Inclusão ou Alteração
+Campo : Z02_SERV  
+
+Operação:Inclusão ou Alteração
+Campo : Z02_CNPJ  
+
+Operação:Inclusão ou Alteração
+Campo : Z02_CONTRA
+
+Operação:Inclusão ou Alteração
+Campo : Z02_AGENCI
+
+Operação:Inclusão ou Alteração
+Campo : Z02_ADESAO
+
+Operação:Inclusão ou Alteração
+Campo : Z02_VENCTO
+
+
+------------
+SX2
+
+Operação:Inclusão ou Alteração
+Tabela : Z01
+
+Operação:Inclusão ou Alteração
+Tabela : Z02
+
+
+------------
+Menus (mnupack.txt)
+
+Nome : SIGAFAT                                           
+Módulo : 05
+
+------------
+Helps (hlppack*.txt)
+
+Chave : Z01_FILIAL
+Chave : Z01_COD   
+Chave : Z01_DESC  
+Chave : Z01_TIPO  
+Chave : Z02_FILIAL
+Chave : Z02_COD   
+Chave : Z02_SERV  
+Chave : Z02_CNPJ  
+Chave : Z02_CONTRA
+Chave : Z02_AGENCI
+Chave : Z02_ADESAO
+Chave : Z02_VENCTO

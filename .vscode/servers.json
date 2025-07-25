@@ -53,7 +53,8 @@
 				"errorMessage": "",
 				"environmentDetectedType": "totvs_server_protheus",
 				"serverDetectedType": "totvs_server_protheus"
-			}
+			},
+			"patchGenerateDir": "c:\\Users\\luiza\\OneDrive\\Documentos\\GitHub\\advpl-mvc-two-table\\resources\\patch"
 		}
 	],
 	"savedTokens": [
